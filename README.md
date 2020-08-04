@@ -9,6 +9,7 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Big Fan of the ⚡ emoji
 
+<span></span>
 <img width="32" height="32" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
 <img width="32" height="32" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
 <img width="32" height="32" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
