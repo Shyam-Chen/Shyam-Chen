@@ -22,9 +22,11 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
+<img width="50" height="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" />
+<img width="50" height="50" src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg" />
+<img width="50" height="50" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" />
@@ -36,9 +38,9 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 **About My Repositories:**
 
 <a href="https://github.com/Shyam-Chen/Shyam-Chen">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-Chen&hide=commits&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-Chen&include_all_commits=true&show_icons=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Shyam-Chen/Shyam-Chen">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Chen&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Chen&layout=compact&langs_count=6&theme=tokyonight" />
 </a>
