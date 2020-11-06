@@ -16,31 +16,25 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 **Languages and Tools:**
 
 <span></span>
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
+<img src="https://api.iconify.design/logos:javascript.svg?width=50&height=50" />
+<img src="https://api.iconify.design/logos:typescript-icon.svg?width=50&height=50" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
 <img width="50" height="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" />
 <img width="50" height="50" src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg" />
-<img width="50" height="50" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" />
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" />
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" />
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" />
-<img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" />
 
-**ECMAScript Microservices Development:**
+<span></span>
+<img width="50" height="50" src="https://api.iconify.design/logos:vue.svg?width=50&height=50" />
+<img width="50" height="50" src="https://api.iconify.design/logos:react.svg?width=50&height=50" />
+<img width="50" height="50" src="https://api.iconify.design/logos:angular-icon.svg?width=50&height=50" />
+<img width="50" height="50" src="https://api.iconify.design/logos:svelte-icon.svg?width=50&height=50" />
+<img width="50" height="50" src="https://api.iconify.design/logos:koa.svg?width=50&height=50" />
+<img width="50" height="50" src="https://api.iconify.design/logos:express.svg?width=50&height=50" />
+<img width="50" height="50" src="https://api.iconify.design/logos:nestjs.svg?width=50&height=50" />
+<img width="50" height="50" src="https://api.iconify.design/simple-icons:fastify.svg?color=%23000000&width=50&height=50" />
 
-[![Micro Fullstack](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Chen&repo=Micro-Fullstack&theme=tokyonight)](https://github.com/Shyam-Chen/Micro-Fullstack)
+**Microservices in Action:**
 
-**About My Repositories:**
-
-<a href="https://github.com/Shyam-Chen/Shyam-Chen">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-Chen&include_all_commits=true&show_icons=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Shyam-Chen/Shyam-Chen">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Chen&layout=compact&langs_count=6&theme=tokyonight" />
-</a>
+[![Micro Fullstack](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Chen&repo=Micro-Fullstack)](https://github.com/Shyam-Chen/Micro-Fullstack)
