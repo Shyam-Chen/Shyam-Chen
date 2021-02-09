@@ -1,8 +1,8 @@
 ### Hi there, I'm Shyam! 👋
 
-I'm a passionate self-taught web developer from Taiwan who loves to explore and learn about new things. In my spare time, I enjoy swimming, ice skating, music, and reading.
+I'm a passionate self-taught web developer from Taiwan who loves to explore and learn about new things.
 
-**Current Status Quo:**
+**Status Quo:**
 
 - 🔭 I'm currently working on some of my side projects
 - 🌱 I'm currently learning microservices development
@@ -31,7 +31,7 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 <img src="https://api.iconify.design/logos:angular-icon.svg?width=50&height=50" />
 <img src="https://api.iconify.design/logos:svelte-icon.svg?width=50&height=50" />
 <img src="https://api.iconify.design/logos:koa.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:express.svg?width=50&height=50" />
+<img src="https://api.iconify.design/simple-icons:express.svg?width=50&height=50" />
 <img src="https://api.iconify.design/logos:nestjs.svg?width=50&height=50" />
 <img src="https://api.iconify.design/simple-icons:fastify.svg?color=%23000000&width=50&height=50" />
 
@@ -47,4 +47,4 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 
 **Microservices in Action:**
 
-[![Micro Fullstack](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Chen&repo=Micro-Fullstack)](https://github.com/Shyam-Chen/Micro-Fullstack)
+[![Micro Fullstack](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Chen&repo=Micro-Fullstack&theme=dark)](https://github.com/Shyam-Chen/Micro-Fullstack)
