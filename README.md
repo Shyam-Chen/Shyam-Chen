@@ -3,7 +3,7 @@
 I'm a passionate self-taught web developer from Taiwan who loves to explore and learn about new things.
 
 - 🔭 I'm currently working on some of my side projects
-- 🌱 I'm currently learning microservices development
+- 🌱 I'm currently learning multi-platform web development
 - 👯 I'm looking to collaborate on anything free and open source
 - 🤔 I'm looking for help with data structures and algorithms
 - 💬 Ask me about web development
