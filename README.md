@@ -11,40 +11,14 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Big fan of the ⚡ emoji
 
-<div style="display: flex; gap: 0.25rem">
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--typescript.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--vuejs.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--tailwindcss.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--tauri.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--xcode.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--fastify.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--mongodb.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--pulumi.svg" style="width: 100%; height: 100%" />
-  </div>
-
-  <div style="width: 3rem; height: 3rem; background: #1f2937; border-radius: 0.75rem">
-    <img src="./devicon--azure.svg" style="width: 100%; height: 100%" />
-  </div>
-</div>
+<span>
+  <img src="./devicon--typescript.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--vuejs.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--tailwindcss.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--tauri.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--xcode.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--fastify.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--mongodb.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--pulumi.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--azure.svg" style="width: 3rem; height: 3rem" />
+</span>
