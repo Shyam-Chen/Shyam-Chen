@@ -11,18 +11,20 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Big fan of the ⚡ emoji
 
+#### 🚀 My Stack:
+
 <span>
-  <img src="./devicon--typescript.svg" style="width: 3rem; height: 3rem" />
-  <img src="./devicon--vuejs.svg" style="width: 3rem; height: 3rem" />
-  <img src="./devicon--tailwindcss.svg" style="width: 3rem; height: 3rem" />
-  <img src="./devicon--tauri.svg" style="width: 3rem; height: 3rem" />
-  <img src="./devicon--xcode.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--typescript.svg" />
+  <img src="./devicon--vuejs.svg" />
+  <img src="./devicon--tailwindcss.svg" />
+  <img src="./devicon--tauri.svg" />
+  <img src="./devicon--xcode.svg" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./devicon--fastify-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./devicon--fastify-light.svg" />
-    <img src="./devicon--fastify.svg" style="width: 3rem; height: 3rem" />
+    <img src="./devicon--fastify.svg" />
   </picture>
-  <img src="./devicon--mongodb.svg" style="width: 3rem; height: 3rem" />
-  <img src="./devicon--pulumi.svg" style="width: 3rem; height: 3rem" />
-  <img src="./devicon--azure.svg" style="width: 3rem; height: 3rem" />
+  <img src="./devicon--mongodb.svg" />
+  <img src="./devicon--pulumi.svg" />
+  <img src="./devicon--azure.svg" />
 </span>
