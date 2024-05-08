@@ -19,11 +19,13 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
   <img src="./devicon--tailwindcss.svg" />
   <img src="./devicon--tauri.svg" />
   <img src="./devicon--xcode.svg" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./devicon--fastify-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./devicon--fastify-light.svg" />
-    <img src="./devicon--fastify.svg" />
-  </picture>
+  <a href="./devicon--fastify.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./devicon--fastify-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./devicon--fastify-light.svg" />
+      <img src="./devicon--fastify.svg" />
+    </picture>
+  </a>
   <img src="./devicon--mongodb.svg" />
   <img src="./devicon--pulumi.svg" />
   <img src="./devicon--azure.svg" />
