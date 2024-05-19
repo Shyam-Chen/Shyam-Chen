@@ -13,20 +13,12 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 
 #### 🚀 My Stack:
 
-<span>
-  <img src="./devicon--typescript.svg" />
-  <img src="./devicon--vuejs.svg" />
-  <img src="./devicon--tailwindcss.svg" />
-  <img src="./devicon--tauri.svg" />
-  <img src="./devicon--xcode.svg" />
-  <a href="./devicon--fastify.svg" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./devicon--fastify-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./devicon--fastify-light.svg" />
-      <img src="./devicon--fastify.svg" />
-    </picture>
-  </a>
-  <img src="./devicon--mongodb.svg" />
-  <img src="./devicon--pulumi.svg" />
-  <img src="./devicon--azure.svg" />
-</span>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=FFFFFF)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=FFFFFF)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=FFFFFF)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=FFFFFF)
+![Mongo](https://img.shields.io/badge/Mongo-2347A248?logo=mongodb&logoColor=FFFFFF)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?logo=pulumi&logoColor=FFFFFF)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=FFFFFF)
