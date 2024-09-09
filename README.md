@@ -15,23 +15,33 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 
 <span>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--typescript.svg" />
+    <picture>
+      <img src="./devicon--typescript.svg" />
+    </picture>
   </a>
 
   <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--vuejs.svg" />
+    <picture>
+      <img src="./devicon--vuejs.svg" />
+    </picture>
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--tailwindcss.svg" />
+    <picture>
+      <img src="./devicon--tailwindcss.svg" />
+    </picture>
   </a>
 
   <a href="https://tauri.app/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--tauri.svg" />
+    <picture>
+      <img src="./devicon--tauri.svg" />
+    </picture>
   </a>
 
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--xcode.svg" />
+    <picture>
+      <img src="./devicon--xcode.svg" />
+    </picture>
   </a>
 
   <a href="https://fastify.dev/" target="_blank" rel="noopener noreferrer">
@@ -43,14 +53,20 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--mongodb.svg" />
+    <picture>
+      <img src="./devicon--mongodb.svg" />
+    </picture>
   </a>
 
   <a href="https://www.pulumi.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--pulumi.svg" />
+    <picture>
+      <img src="./devicon--pulumi.svg" />
+    </picture>
   </a>
 
   <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./devicon--azure.svg" />
+    <picture>
+      <img src="./devicon--azure.svg" />
+    </picture>
   </a>
 </span>
