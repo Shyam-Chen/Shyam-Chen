@@ -13,12 +13,44 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 
 #### 🚀 My Stack:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=FFFFFF)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=FFFFFF)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=FFFFFF)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=FFFFFF)
-![Mongo](https://img.shields.io/badge/Mongo-2347A248?logo=mongodb&logoColor=FFFFFF)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?logo=pulumi&logoColor=FFFFFF)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=FFFFFF)
+<span>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--typescript.svg" />
+  </a>
+
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--vuejs.svg" />
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--tailwindcss.svg" />
+  </a>
+
+  <a href="https://tauri.app/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--tauri.svg" />
+  </a>
+
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--xcode.svg" />
+  </a>
+
+  <a href="https://fastify.dev/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./devicon--fastify-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./devicon--fastify-light.svg" />
+      <img src="./devicon--fastify.svg" />
+    </picture>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--mongodb.svg" />
+  </a>
+
+  <a href="https://www.pulumi.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--pulumi.svg" />
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./devicon--azure.svg" />
+  </a>
+</span>
