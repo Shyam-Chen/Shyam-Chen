@@ -64,9 +64,9 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
     </picture>
   </a>
 
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img src="./devicon--azure.svg" />
+      <img src="./devicon--kubernetes.svg" />
     </picture>
   </a>
 </span>
