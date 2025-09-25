@@ -2,16 +2,16 @@
 
 I'm a passionate self-taught web developer from Taiwan who loves to explore and learn about new things.
 
-- 🔭 I'm currently working on some of my side projects
-- 🌱 I'm currently learning advanced web development
+- 🔭 I'm currently working on digital products and services
+- 🌱 I'm currently learning innovative digital solutions
 - 👯 I'm looking to collaborate on anything free and open source
-- 🤔 I'm looking for help with data structures and algorithms
+- 🤝 I'm looking for help with data structures and algorithms
 - 💬 Ask me about web development
 - 📫 How to reach me: @Shyam-Chen ping
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Big fan of the ⚡ emoji
 
-#### 🚀 My Stack:
+#### 🚀 My Key Tech Stack:
 
 <span>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
