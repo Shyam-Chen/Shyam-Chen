@@ -15,8 +15,8 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 
 - Programming languages: TypeScript, Rust
 - Web applications: Vue, Tailwind CSS
-- Mobile applications: Tauri, Android Studio
-- Desktop applications: Tauri
+- Mobile applications: Tauri, Android Studio, Xcode
+- Desktop applications: Tauri, Microsoft C++ Build Tools, Xcode
 - Server applications: Fastify, MongoDB, Redis, Qdrant
 - Cloud applications: Pulumi, Kubernetes, Helm, Docker
-- Embedded applications: Raspberry Pi
+- Embedded applications: Raspberry Pi, Tauri
