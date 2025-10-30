@@ -14,9 +14,9 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 #### 🚀 My Key Tech Stack:
 
 - Programming languages: TypeScript, Rust
-- Web applications: Vue, Tailwind CSS, ECharts
-- Mobile applications: Tauri, Android Studio, Xcode
-- Desktop applications: Tauri, Visual Studio, Xcode
+- Web applications: Vue, Tailwind CSS, Iconify, ECharts
 - Server applications: Fastify, MongoDB, Redis, Qdrant
 - Cloud applications: Pulumi, Kubernetes, Helm, Docker
-- Embedded applications: Tauri, Raspberry Pi, GPIO-CDEV
+- Desktop applications: Tauri, Visual Studio, Xcode
+- Mobile applications: Tauri, Android Studio, Xcode
+- Embedded applications: Tauri, Raspberry Pi, Raspberry Pi Pico
