@@ -13,10 +13,10 @@ I'm a passionate self-taught web developer from Taiwan who loves to explore and 
 
 #### 🚀 My Key Tech Stack:
 
-- Programming languages: TypeScript, Rust
-- Web applications: Vue, Tailwind CSS, Iconify, Valibot, ECharts
-- Server applications: Fastify, Typebox, MongoDB, Redis, Qdrant
-- Cloud applications: Pulumi, Kubernetes, Helm, Docker
-- Desktop applications: Tauri, Visual Studio, Xcode
-- Mobile applications: Tauri, Android Studio, Xcode
-- Embedded applications: Tauri, Raspberry Pi & Pico, Jetson, STM32
+- 🧑‍💻 Programming languages: 🟦 TypeScript, 🦀 Rust
+- 🌐 Web applications: Vue, Tailwind CSS, Iconify, Valibot, ECharts
+- 🏗️ Server applications: Fastify, Typebox, MongoDB, Redis, Qdrant
+- ☁️ Cloud applications: Pulumi, Kubernetes, Helm, Docker
+- 💻 Desktop applications: Tauri, Visual Studio, Xcode
+- 📱 Mobile applications: Tauri, Android Studio, Xcode
+- 🔌 Embedded applications: Tauri, Raspberry Pi, Jetson, STM32
