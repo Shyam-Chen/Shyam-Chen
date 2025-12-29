@@ -1,15 +1,15 @@
 ### Hi there, I'm Shyam! 👋
 
-I'm a passionate self-taught web developer from Taiwan who loves to explore and learn about new things.
+I'm a passionate, self-taught web developer from Taipei, Taiwan, who loves exploring and learning new things.
 
 - 🔭 I'm currently working on some of my side projects
-- 🌱 I'm currently learning innovative application solutions
+- 🌱 I'm currently learning modern application solutions
 - 👯 I'm looking to collaborate on anything free and open source
 - 🤝 I'm looking for help with data structures and algorithms
 - 💬 Ask me about web development
 - 📫 How to reach me: @Shyam-Chen ping
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: Big fan of the emoji
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Big fan of emojis
 
 #### 🚀 My Key Tech Stack:
 
