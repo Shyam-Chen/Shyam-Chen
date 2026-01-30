@@ -13,10 +13,12 @@ I'm a passionate, self-taught web developer from Taipei, Taiwan, who loves explo
 
 #### 🚀 My Key Tech Stack:
 
+Develop general-purpose applications integrated with Generative AI capabilities.
+
 - 🧑‍💻 Programming languages: 🟦 TypeScript, 🦀 Rust
 - 🌐 Web applications: Vue, Tailwind CSS, Iconify, Valibot, ECharts
 - 🏗️ Server applications: Fastify, Typebox, MongoDB, Redis, Qdrant
 - ☁️ Cloud applications: Pulumi, Kubernetes, Helm, Docker
 - 💻 Desktop applications: Tauri, Visual Studio, Xcode
 - 📱 Mobile applications: Tauri, Android Studio, Xcode
-- 🔌 Embedded applications: Tauri, Raspberry Pi, Jetson, STM32
+- 🔌 Embedded applications: Tauri, Raspberry Pi, Embassy, Raspberry Pi Pico
