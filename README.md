@@ -13,11 +13,11 @@ I'm a passionate, self-taught web developer from Taipei, Taiwan, who loves explo
 
 #### 🚀 My Key Tech Stack:
 
-- 🧑‍💻 Programming languages: 🟦 TypeScript, 🦀 Rust, 🐍 Python
+- 🧑‍💻 Programming languages: 🟦 TypeScript, 🐍 Python, 🦀 Rust
 - 🌐 Web applications: Vue, Tailwind CSS, Iconify, Valibot, ECharts
 - 🏗️ Server applications: Fastify, Typebox, MongoDB, Redis, Qdrant
 - ☁️ Cloud applications: Pulumi, Kubernetes, Helm, Docker
+- 🔬 Scientific applications: NumPy, Polars, Matplotlib, Scikit-learn, Torch
 - 💻 Desktop applications: Tauri, Visual Studio, Xcode
 - 📱 Mobile applications: Tauri, Android Studio, Xcode
 - 🔌 Embedded applications: Tauri, Raspberry Pi, Embassy, Raspberry Pi Pico
-- 🔬 Scientific applications: NumPy, Polars, Matplotlib, Scikit-learn, Torch
