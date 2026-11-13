@@ -20,4 +20,4 @@ I'm a passionate, self-taught web developer from Taipei, Taiwan, who loves explo
 - 💻 Desktop applications: Tauri, Visual Studio, Xcode
 - 📱 Mobile applications: Tauri, Android Studio, Xcode
 - 🔬 Scientific applications: NumPy, Polars, Matplotlib, Scikit-learn, Torch
-- 🔌 Embedded applications: Raspberry Pi / Pico, Embassy, RMQTT, RuMQTTc, Rust-MQTT
+- 🔌 Embedded applications: Raspberry Pi, Raspberry Pi Pico, Embassy
